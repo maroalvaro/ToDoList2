@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+
+    <string name="add_new">Nowe zadanie</string>
+    <string name="show_subtitle">Sprawdź liczbę zadań toDo</string>
+    <string name="hide_subtitle">Ukryj liczbę zadań toDo</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>
